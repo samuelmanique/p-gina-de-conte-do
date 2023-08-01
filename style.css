@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+}
+
+.topbar{
+
+    background-color:#333;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: white;
+    border-bottom: solid rgb(236, 144, 38) 8px;
+    
+    
+    
+    
+}
+
+
+.home{
+
+    display: flex;
+    text-align: justify;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo{
+
+    margin-top: 40px;
+    width: 70%;
+    
+
+}
+
+.titulo p{
+
+    margin-top: 20px;
+}
+
+
+h1{
+    font-size: 60px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+p{
+    font-size: 20px;
+    color:#111;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.socialicons{
+    
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 30px;
+}
+
+.conteudo{
+
+    padding-top: 30px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.conteudo img{
+    width: 100%;
+    margin-top: 20px;
+}
+
+a{
+    
+    color: rgb(255, 153, 0);
+    text-decoration: none;
+    font-size:20px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+
+
+
+h2{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+figcaption{
+    margin-bottom: 30px;
+}
+
+.footer{
+
+   
+   margin-top: 60px;   
+     width: 100%;
+    height: 80px;
+    background-color: #333;
+}
